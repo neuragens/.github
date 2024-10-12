@@ -5,3 +5,7 @@
 </div>
 
 **NeuraGen** is an open-source framework for developing Generative AI (GenAI) applications. Its modular and extensible architecture allows developers to create sophisticated and scalable solutions quickly and intuitively.
+
+## Learning NeuraGen
+
+`NeuraGen` has the most extensive documentation and video tutorials of all GenAI application frameworks.
